@@ -2,7 +2,7 @@
 
 <hr>
 
-Record default audio input into mp3 chunks files. If you would like to make any comments then please feel free to email me: sam.y.tang@gmail.com.
+Record default audio input into mp3 chunks files. If you would like to make any comments then please feel free to email me: sam.y.tang@gmail.com.<br>
 You can use Virtual Audio Cable from https://vb-audio.com/Cable/ to route audio output into audio input. Therefore you can record PC audio output directly into mp3 files.
 
 <hr>
