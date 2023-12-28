@@ -7,7 +7,7 @@ You can use Virtual Audio Cable from https://vb-audio.com/Cable/ to route audio 
 
 <hr>
 How to use?
-
+<hr>
 python -m venv venv <br>
 venv\Scripts\activate  <br>
 pip install -r requirements.txt  <br>
