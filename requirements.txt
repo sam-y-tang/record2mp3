@@ -1,0 +1,9 @@
+audiosegment==0.23.0
+cffi==1.16.0
+numpy==1.26.2
+pycparser==2.21
+pydub==0.25.1
+scipy==1.11.4
+sounddevice==0.4.6
+wavio==0.0.8
+webrtcvad==2.0.10
